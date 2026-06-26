@@ -28,6 +28,12 @@ La lógica del proyecto se sostiene sobre las siguientes funciones fundamentales
 •⁠  ⁠*⁠ map(puntos, 0, 10, 50, 110) ⁠: Traduce el progreso del jugador en un cambio visual. Escala dinámicamente el tamaño de las figuras de 50 a 110 píxeles a medida que los puntos suben de 0 a 10. 
 •⁠  ⁠*⁠ random() ⁠ e ⁠ int(random(3)) ⁠: Aportan la variabilidad necesaria para que el juego no sea predecible. Definen tanto la posición de aparición en el eje X (⁠ xFigura ⁠) como la selección aleatoria de la figura (círculo, rectángulo o triángulo).
 •⁠  ⁠*⁠ image(miVideo) ⁠ y ⁠ sonidoFondo.loop() ⁠: Gestionan la carga multimedia. El video reemplaza el fondo sólido estático por una textura en movimiento, mientras que el sonido refuerza la inmersión de la etapa de juego activo.
+<img width="2338" height="736" alt="image" src="https://github.com/user-attachments/assets/104c6cb9-740d-4d1f-b3df-bdbe2fbb8d70" />
+<img width="3000" height="2400" alt="image" src="https://github.com/user-attachments/assets/a0eb2355-fae3-4d33-bab9-5aa04c27c9f5" />
+
+
+ 
+
 
 
 
