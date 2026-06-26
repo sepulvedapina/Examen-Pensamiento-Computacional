@@ -9,7 +9,8 @@
 
 ## Descripción del Proyecto
 "TRAGA TRAGA" es un juego interactivo desarrollado en *p5.js* que evalúa la coordinación y el tiempo de reacción del usuario. El sistema funciona bajo el modelo de una Máquina de Estados , alternando entre diferentes pantallas y lógicas matemáticas dependiendo de las acciones del jugador.
-<img width="400" height="480" alt="image" src="https://github.com/user-attachments/assets/9be159be-4b2f-49f3-936c-d98a8ce3c347" />
+<img width="400" height="480" alt="image" src="https://github.com/user-attachments/assets/8ce46556-c1aa-4b5b-a566-35df91634741" />
+
 
 
 ## 1. Etapas de Interacción (Estados del Sistema)
