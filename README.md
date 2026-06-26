@@ -9,6 +9,8 @@
 
 ## Descripción del Proyecto
 "TRAGA TRAGA" es un juego interactivo desarrollado en *p5.js* que evalúa la coordinación y el tiempo de reacción del usuario. El sistema funciona bajo el modelo de una Máquina de Estados , alternando entre diferentes pantallas y lógicas matemáticas dependiendo de las acciones del jugador.
+<img width="400" height="480" alt="image" src="https://github.com/user-attachments/assets/9be159be-4b2f-49f3-936c-d98a8ce3c347" />
+
 
 ## 1. Etapas de Interacción (Estados del Sistema)
 
@@ -29,6 +31,13 @@ La lógica del proyecto se sostiene sobre las siguientes funciones fundamentales
 •⁠  ⁠*⁠ random() ⁠ e ⁠ int(random(3)) ⁠: Aportan la variabilidad necesaria para que el juego no sea predecible. Definen tanto la posición de aparición en el eje X (⁠ xFigura ⁠) como la selección aleatoria de la figura (círculo, rectángulo o triángulo).
 •⁠  ⁠*⁠ image(miVideo) ⁠ y ⁠ sonidoFondo.loop() ⁠: Gestionan la carga multimedia. El video reemplaza el fondo sólido estático por una textura en movimiento, mientras que el sonido refuerza la inmersión de la etapa de juego activo.
 <img width="2338" height="736" alt="image" src="https://github.com/user-attachments/assets/104c6cb9-740d-4d1f-b3df-bdbe2fbb8d70" />
+aqui me equivoque en colocar en el lienzo los circulos por lo cual tuve que ir cambiando los valores de los circulos dentro del plano.
+<img width="2638" height="1392" alt="image" src="https://github.com/user-attachments/assets/1522c25f-cd11-4145-932e-070be2753fd3" />
+aqui me di cuenta que el video se veia por sobre la actividad y que quedaba de forma estatica por lo que tuve que ir cambiando la posición de la capa para poder ir entendiendo la visibilidad.
+<img width="2588" height="996" alt="image" src="https://github.com/user-attachments/assets/b20f5cc2-6d49-4df8-8ec3-bc2aa54494f4" />
+aqui me di cuenta que las condicionales no estaban bien alienadas, por lo que tuve que ir jugando con tamaños y ubicaciones en el plano.
+
+
 <img width="3000" height="2400" alt="image" src="https://github.com/user-attachments/assets/a0eb2355-fae3-4d33-bab9-5aa04c27c9f5" />
 
 
